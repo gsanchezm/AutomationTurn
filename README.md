@@ -74,13 +74,13 @@ Visit https://chocolatey.org/install and follow the installation steps.
 6. If you don't see any errors, you are ready to use Java
 
 ### **4.2 Executing the framework**
-1. Clone (if yu have git installed on your  system) or download as Zip the project in your preferred location from https://github.com/gsanchezm/AutomationTurn.git
+1. Clone (if you have git installed on your  system) or download as Zip the project in your preferred location from https://github.com/gsanchezm/AutomationTurn.git
 2. Go to your project root (AutomationTurn) folder (the _pom_ file must be visible). Below you will find the project structure
    - AutomationTun
    - .git
    - drivers (ChomeDriver is stored here)
-   - resources (Test dafa file is on this folder)
-   - src (all the code ang logic is there)
+   - resources (Test data file is on this folder)
+   - src (all the code and logic is there)
    - .gitignore
    - extent-config.xml
    - pom.xml
@@ -102,7 +102,7 @@ The HTML file opens automatically when the execution finish and show you the com
 
 ![image](https://user-images.githubusercontent.com/24705055/37805142-ee66f892-2dfd-11e8-91e5-33ac24926841.png)
 
-If the test case fails, the framework will take an screenshot and embed n the report, you only need to click over the image embedded snd will be displayed 
+If the test case fails, the framework will take an screenshot and embed in the report, you only need to click over the image embedded and will be displayed 
 
 ![image](https://user-images.githubusercontent.com/24705055/37805149-f4b0a400-2dfd-11e8-97ce-d7cac87a651c.png) 
  
